@@ -14,7 +14,7 @@ public abstract class ChessPiece extends Piece {
 		this.color = color;
 	}
 
-	public Color getColor() {
+	public chess.Color getColor() {
 		return color;
 	}
 
